@@ -1,0 +1,1 @@
+{"name":"web-crocodile","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"tsc --noEmit && vite build","preview":"vite preview --host 0.0.0.0"},"devDependencies":{"typescript":"7.0.2","vite":"8.2.2"}}
